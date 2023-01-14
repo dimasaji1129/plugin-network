@@ -1,0 +1,4 @@
+nama : dimas aji saputra
+nim  : 21090091
+squad : network
+batch 2
